@@ -7,7 +7,7 @@ declare(strict_types=1);
  *
  * @author Edward Ly <contact@edward.ly>
  *
- * @license AGPL-3.0
+ * @license AGPL-3.0-or-later
  *
  * This code is free software: you can redistribute it and/or modify
  * it under the terms of the GNU Affero General Public License, version 3,

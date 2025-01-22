@@ -19,7 +19,7 @@ If those settings are not configured, a link to the "Connected accounts" user se
 The context menu to send a file can be accessed by right clicking on the file/folder to be shared or selecting them and clicking on the "Actions" button.
 	]]></description>
 	<version>1.0.5</version>
-	<licence>agpl</licence>
+	<licence>AGPL-3.0-or-later</licence>
 	<author>Edward Ly</author>
 	<namespace>Zulip</namespace>
 	<documentation>
@@ -33,7 +33,7 @@ The context menu to send a file can be accessed by right clicking on the file/fo
 	<donation title="Donate via Liberapay">https://liberapay.com/edward-ly/donate</donation>
 	<donation title="Donate via PayPal" type="paypal">https://paypal.me/ledlight7</donation>
 	<dependencies>
-		<nextcloud min-version="28" max-version="31"/>
+		<nextcloud min-version="31" max-version="31"/>
 	</dependencies>
 	<settings>
 		<admin>OCA\Zulip\Settings\Admin</admin>
